@@ -1,6 +1,6 @@
 {
   "name": "@tl-its-umich-edu/github-publish-testing",
-  "version": "2024.01.01",
+  "version": "2024.01.02",
   "description": "",
   "main": "index.js",
   "scripts": {
