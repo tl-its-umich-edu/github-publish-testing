@@ -1,0 +1,15 @@
+{
+  "name": "github-publish-testing",
+  "version": "2024.01.01",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig":{
+    "registry": "https://npm.pkg.github.com/@tl-its-umich-edu"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
